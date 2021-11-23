@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1>PROFFY</h1> <br>
+<h1>JOBSCALC</h1> <br>
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="#">
